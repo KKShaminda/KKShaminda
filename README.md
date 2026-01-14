@@ -25,8 +25,7 @@
 
 - 🎓 Undergraduate at **Sabaragamuwa University of Sri Lanka**
 - 💻 Passionate **Full Stack Developer** with strong frontend & backend expertise
-- 🌱 Currently learning **Advanced React, TypeScript, Angular & .NET Backend**
-- ⚡ Fun fact: **Call me Kavee**
+- 🌱 Currently learning ** TypeScript, Angular & .NET Backend**
 
 ---
 
